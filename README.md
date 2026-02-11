@@ -1,1 +1,3 @@
-- Dědičnos je použita pro typi nepřátel (Goblin, Troll, Dragon) je také použita pro hráče na útok speciální schopnost a vlastnosti jako životy, méno a dmg
+- Dědičnos je použita pro vlastnosti nepřátel (Goblin, Troll, Dragon) je také použita pro hráče na útok speciální schopnost a vlastnosti jako životy, méno a dmg
+- Polymorfismus se používá pro nastavování dmg, přepisuje co se má stát v tahu (DoTurn)
+- Interface se používá pro útok, když má enemy/player dostat dmg a speciální abilitu
