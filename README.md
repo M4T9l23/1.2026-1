@@ -1,0 +1,1 @@
+- Dědičnos je použita pro typi nepřátel (Goblin, Troll, Dragon) je také použita pro hráče na útok speciální schopnost a vlastnosti jako životy, méno a dmg
